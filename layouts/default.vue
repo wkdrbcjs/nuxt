@@ -81,6 +81,11 @@ export default {
           title: 'Inspire',
           to: '/inspire',
         },
+        {
+          icon: '',
+          title : 'introduction',
+          to: '/introduction'
+        }
       ],
       miniVariant: false,
       right: true,
